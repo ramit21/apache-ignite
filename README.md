@@ -49,3 +49,7 @@ Ignition.setClientMode(true);
 Ignite ignite = Ignition.start(configFile) 
 ```
 
+## Features of Ignite
+
+https://ignite.apache.org/features.html
+
