@@ -23,7 +23,7 @@ After executing CacheQueryExample, with data already present in the running node
 
 **API**
 
-After starting the server nodes, execute CacheApiExample.java for Async processing, and XXXX.java for using the transaction API.
+After starting the server nodes, execute CacheApiExample.java for Async processing, and CacheTransactionExample.java for using the transaction API.
 
 **Compute Grid**
 
