@@ -53,3 +53,6 @@ Ignite ignite = Ignition.start(configFile)
 
 https://ignite.apache.org/features.html
 
+https://apacheignite.readme.io/docs/cache-modes
+
+
